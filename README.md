@@ -1,6 +1,6 @@
 Here’s the updated `README.md` file that includes the **Run in Colab** section with the provided link:
 
-```markdown
+
 # Movie Recommender System Using Machine Learning in Google Colab
 
 ## Table of Contents
