@@ -1,7 +1,8 @@
 Here’s the updated `README.md` file that includes the **Run in Colab** section with the provided link:
 
 
-# Movie Recommender System Using Machine Learning in Google Colab
+# Movie Recommender System Using Machine Learning in Google Colab ## Content Based Recommender System
+
 
 ## Table of Contents
 - [Overview](#overview)
@@ -100,10 +101,3 @@ For any inquiries or feedback, please reach out to:
 - GitHub: [your-username](https://github.com/your-username)
 
 Thank you for checking out the Movie Recommender System project!
-```
-
-### Instructions for Customization:
-- **Your GitHub Username**: Replace `your-username` with your actual GitHub username in the clone URL and contact sections.
-- **Your Name and Email**: Update the contact section with your name and email address.
-
-This `README.md` file now includes a **Run in Colab** button, making it easy for users to quickly access your project in Google Colab. If you need further modifications or assistance, feel free to ask!
